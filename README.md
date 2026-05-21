@@ -70,6 +70,7 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 
 ---
 
+<!--
 # 📊 GitHub Stats
 
 <div align="center">
@@ -91,6 +92,7 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 </div>
 
 ---
+-->
 
 # 🌐 Connect With Me
 
