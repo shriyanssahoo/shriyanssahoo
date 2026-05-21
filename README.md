@@ -74,9 +74,9 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shriyanssahoo&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyanssahoo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -86,7 +86,7 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shriyanssahoo&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -112,14 +112,6 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 
 ---
 
-# 💡 Quote I Believe In
-
-> “Consistency compounds. Small improvements every day create massive results over time.”
-
----
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
