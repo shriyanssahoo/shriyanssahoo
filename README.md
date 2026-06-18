@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shriyans%20S%20Sahoo&fontAlign=50&fontAlignY=40&color=gradient&fontSize=45" />
 
-<h3>3rd Year Computer Science Student at IIIT Dharwad • AI/ML Explorer • Open Source Contributor</h3>
+<h3>3rd Year Computer Science Student at IIIT Dharwad • Exploring AI, Deep Learning & Software Development</h3>
 
 <p>
-Building skills in AI, Data Science, Open Source, and Software Development.
+Building skills in AI, software engineering, and problem solving through projects and continuous learning.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Learning+AI+and+Data+Science;Open+Source+Contributor;Building+Projects+and+Research+Skills;Exploring+Deep+Tech+Ideas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Deep+Learning;Solving+DSA+Problems;Building+Projects+and+Sharing+the+Journey;Exploring+AI+and+Software+Engineering" />
 
 </div>
 
@@ -31,22 +31,21 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 
 # 👨‍💻 About Me
 
-* 🎓 Computer Science student at **IIIT Dharwad**
-* 🤖 Exploring **AI, Data Science, and Machine Learning**
+* 🎓 3rd Year Computer Science student at **IIIT Dharwad**
+* 🤖 Learning Deep Learning and building AI-powered applications
 * 🌱 Currently learning:
 
-  * Open Source Contribution
-  * Machine Learning Fundamentals
-  * Data Science with Python
+  * Data Structures & Algorithms
+  * Deep Learning
   * Full Stack Development
-  
+  * AI Systems and Applications
+
 * 📚 Interested in:
 
-  * AI Systems
-  * Deep Tech
-  * Research
+  * Artificial Intelligence
+  * Software Engineering
+  * Building Products
   * Real-world Problem Solving
-* 🚀 Contributor in **GirlScript Summer of Code (GSSoC)**
 
 ---
 
@@ -62,11 +61,11 @@ Building skills in AI, Data Science, Open Source, and Software Development.
 
 # 📈 Currently Working On
 
-* Improving problem-solving and DSA skills
-* Exploring open-source contributions
-* Learning AI/ML foundations deeply
-* Building meaningful software projects
-* Understanding research and system design
+* Strengthening DSA and problem-solving skills
+* Learning Deep Learning from first principles
+* Building AI and software projects
+* Documenting my learning journey
+* Exploring technology-driven solutions to real-world problems
 
 ---
 
