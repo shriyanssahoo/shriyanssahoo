@@ -36,8 +36,7 @@ Building skills in AI, software engineering, and problem solving through project
 * 🌱 Currently learning:
 
   * Data Structures & Algorithms
-  * Deep Learning
-  * Full Stack Development
+  * Machine Learning
   * AI Systems and Applications
 
 * 📚 Interested in:
@@ -62,8 +61,8 @@ Building skills in AI, software engineering, and problem solving through project
 # 📈 Currently Working On
 
 * Strengthening DSA and problem-solving skills
-* Learning Deep Learning from first principles
-* Building AI and software projects
+* Learning Machine Learning from first principles
+* Building projects
 * Documenting my learning journey
 * Exploring technology-driven solutions to real-world problems
 
